@@ -48,4 +48,4 @@ greet_button = tk.Button(root, text="Get Greeting", command=display_greeting)
 greet_button.grid(row=3, columnspan=2, padx=10, pady=10)
 
 # Run the application
-root.mainloop()
+root.mainloop()  
